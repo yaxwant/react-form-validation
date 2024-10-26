@@ -1,2 +1,2 @@
 # react-form-validation
-using reactt vite
+using react vite
